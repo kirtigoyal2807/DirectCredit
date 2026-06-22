@@ -1,0 +1,4 @@
+# CocoaPods files are Ruby syntax but this is a Flutter/Dart project.
+# Exclude them from GitHub language statistics.
+ios/Podfile linguist-vendored
+ios/Podfile.lock linguist-vendored
